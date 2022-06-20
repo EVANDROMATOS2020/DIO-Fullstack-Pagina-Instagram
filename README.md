@@ -1,4 +1,2 @@
-# DIO-Fullstack-Pagina-Instagram
-Pagina desenvolvida em HTML - CCS com Flexbox
-O objetivo era desenvolver a página de acesso do Instagram
-
+# DIO-Exercicio-Pag-Instagram
+Pagina do Intagram desenvolvida como exercicio do curso Fulltack da DIO-Unimed
